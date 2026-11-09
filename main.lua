@@ -4161,9 +4161,9 @@ end
 -- UI CREATION (WindUI)
 -- ========================================================
 local Window = WindUI:CreateWindow({
-    Title = "Beyond Nen - Auto Farm & Hub",
+    Title = "Fack HUB",
     Icon = "swords",
-    Author = "cook45",
+    Author = "By KENG",
     Folder = "BeyondNenHub",
     Size = UDim2.fromOffset(620, 580),
     Transparent = true,
